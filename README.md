@@ -36,7 +36,7 @@ Bem-vindo ao "TrilhaLab: Navegando pelo Labirinto" - uma jornada fascinante em u
   ```shell
   git clone https://github.com/projeto-de-algoritmos/Grafos2_TrilhaLab_Navegando_pelo_Labirinto.git
   && cd Grafos2_TrilhaLab_Navegando_pelo_Labirinto
-/
+
   ```
 - Instale as bibliotecas necessárias:
     ``` 
