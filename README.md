@@ -1,4 +1,4 @@
-**!! Harry-Potter-e-o-Calice-de-Fogo-Desáfio-3-Labirinto !!** 
+**!! TrilhaLab: Navegando pelo Labirinto !!** 
 
 Temas:
  - Grafos2
@@ -11,22 +11,58 @@ Temas:
 | 19/0033427  |  Pedro Henrique Caldeira de Moraes|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Bem-vindo ao "TrilhaLab: Navegando pelo Labirinto" - uma jornada fascinante em um mundo repleto de desafios e mistérios. Prepare-se para explorar um labirinto dinâmico, onde você deve encontrar o caminho mais curto para alcançar o tesouro escondido no coração do emaranhado de passagens. Utilizando algoritmos inteligentes e uma interface interativa, embarque em uma busca emocionante por soluções eficientes enquanto enfrenta reviravoltas imprevisíveis e surpresas ao longo do percurso. Desvende o código das paredes em constante mudança e desfrute da emoção de mapear um caminho estratégico através do intrincado labirinto. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](Imagens/Captura%20de%20tela%202023-10-16%20232706.png)
+
+![image](Imagens/TELA2.png)
+
+![image](Imagens/tela3.png)
+
+
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+**Dependências**
+- Python 3.10.0 ou superior
+- instalar as bibliotecas necessárias.
+  
+**Execução**
+- Clone o projeto (ou baixe):
+  
+  ```shell
+  git clone https://github.com/projeto-de-algoritmos/Grafos2_TrilhaLab_Navegando_pelo_Labirinto.git
+  && cd Grafos2_TrilhaLab_Navegando_pelo_Labirinto
+/
+  ```
+- Instale as bibliotecas necessárias:
+    ``` 
+    pip install networkx
+    pip install matplotlib 
+    sudo apt get install python3-tk
+    ```
+ 
+ - Execute o arquivo principal ```labirinto.py```:
+  
+    ```shell
+    cd Scripts
+    python3 labirinto.py 
+    ```
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+1. Insira o número desejado de vértices no campo "Quantidade de Vértices". 
+2. Clique no botão "Atualizar Labirinto" para gerar um novo labirinto com base no número de vértices especificado.
+3. Insira o nó de partida no campo "Nó de partida".
+4. Clique no botão "Calcular Caminho Mais Curto" para descobrir o caminho mais curto até o ponto de destino.
+5. Explore as estruturas do labirinto e observe as mudanças na visualização gráfica.Brinque do jeito que quiser com os grafos.
+6. Aprecie a jornada de navegação pelo labirinto e desafie-se a encontrar as melhores rotas possíveis.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
+## Apresentação
 
 
