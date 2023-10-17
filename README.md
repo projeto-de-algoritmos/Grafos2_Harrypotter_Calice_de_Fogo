@@ -14,7 +14,7 @@ Temas:
 Bem-vindo ao "TrilhaLab: Navegando pelo Labirinto" - uma jornada fascinante em um mundo repleto de desafios e mistérios. Prepare-se para explorar um labirinto dinâmico, onde você deve encontrar o caminho mais curto para alcançar o tesouro escondido no coração do emaranhado de passagens. Utilizando algoritmos inteligentes e uma interface interativa, embarque em uma busca emocionante por soluções eficientes enquanto enfrenta reviravoltas imprevisíveis e surpresas ao longo do percurso. Desvende o código das paredes em constante mudança e desfrute da emoção de mapear um caminho estratégico através do intrincado labirinto. 
 
 ## Screenshots
-![image](Imagens/Captura%20de%20tela%202023-10-16%20232706.png)
+![image](Imagens/Captura%20de%20tela%202023-10-16%20232453.png)
 
 ![image](Imagens/TELA2.png)
 
@@ -64,5 +64,6 @@ Bem-vindo ao "TrilhaLab: Navegando pelo Labirinto" - uma jornada fascinante em u
 
 
 ## Apresentação
+[Link Apresentação](https://youtu.be/VvNhG1daDU8)
 
 
